@@ -1,0 +1,209 @@
+Detecting faces in file: IMG-20200122-WA0015.jpg
+1 faces detected
+Detecting faces in file: 20200826_202759.jpg
+1 faces detected
+Detecting faces in file: 20200711_082320.jpg
+1 faces detected
+Detecting faces in file: IMG-20200129-WA0036.jpg
+1 faces detected
+Detecting faces in file: 20200304_200600.jpg
+0 faces detected
+Detecting faces in file: 20200304_200554.jpg
+1 faces detected
+Detecting faces in file: IMG-20191210-WA0010.jpg
+1 faces detected
+Detecting faces in file: IMG-20200111-WA0009.jpg
+1 faces detected
+Detecting faces in file: 20200113_172245.jpg
+0 faces detected
+Detecting faces in file: IMG-20190925-WA0012.jpg
+3 faces detected
+Detecting faces in file: IMG-20191106-WA0010.jpg
+1 faces detected
+Detecting faces in file: 20200315_172516.jpg
+1 faces detected
+Detecting faces in file: IMG-20200124-WA0004.jpg
+1 faces detected
+Detecting faces in file: 20200307_131605.jpg
+1 faces detected
+Detecting faces in file: IMG-20190925-WA0011.jpg
+1 faces detected
+Detecting faces in file: IMG-20200116-WA0000.jpg
+1 faces detected
+Detecting faces in file: IMG-20200131-WA0007.jpg
+2 faces detected
+Detecting faces in file: IMG-20200413-WA0023.jpg
+1 faces detected
+Detecting faces in file: IMG-20201012-WA0085.jpg
+1 faces detected
+Detecting faces in file: IMG-20200310-WA0020.jpg
+1 faces detected
+Modelo model5 emitiendo predicciones
+-----CARA 0-----
+angry      27.6662 %
+disgusted  0.1444 %
+fearful    6.3104 %
+happy      3.3139 %
+neutral    39.8571 %
+sad        12.0243 %
+surprised  10.6837 %
+-----CARA 1-----
+angry      2.6959 %
+disgusted  0.0019 %
+fearful    8.3804 %
+happy      32.6232 %
+neutral    44.1401 %
+sad        9.5598 %
+surprised  2.5987 %
+-----CARA 2-----
+angry      23.4575 %
+disgusted  0.0759 %
+fearful    2.2024 %
+happy      0.4539 %
+neutral    32.6258 %
+sad        40.9960 %
+surprised  0.1884 %
+-----CARA 3-----
+angry      3.5721 %
+disgusted  0.0085 %
+fearful    4.4398 %
+happy      18.6144 %
+neutral    59.0733 %
+sad        13.3221 %
+surprised  0.9698 %
+-----CARA 4-----
+angry      0.8623 %
+disgusted  0.0034 %
+fearful    6.9376 %
+happy      36.7187 %
+neutral    19.2435 %
+sad        1.8118 %
+surprised  34.4227 %
+-----CARA 5-----
+angry      20.5604 %
+disgusted  0.3900 %
+fearful    9.9055 %
+happy      6.3990 %
+neutral    34.4971 %
+sad        18.7435 %
+surprised  9.5046 %
+-----CARA 6-----
+angry      7.3070 %
+disgusted  0.0134 %
+fearful    13.9253 %
+happy      0.6840 %
+neutral    14.9583 %
+sad        11.5455 %
+surprised  51.5665 %
+-----CARA 7-----
+angry      10.0681 %
+disgusted  0.0147 %
+fearful    3.1577 %
+happy      13.3697 %
+neutral    45.9639 %
+sad        26.8571 %
+surprised  0.5688 %
+-----CARA 8-----
+angry      1.1356 %
+disgusted  0.0000 %
+fearful    34.9898 %
+happy      5.9325 %
+neutral    54.4656 %
+sad        3.3912 %
+surprised  0.0853 %
+-----CARA 9-----
+angry      10.7559 %
+disgusted  0.1431 %
+fearful    12.9873 %
+happy      10.9172 %
+neutral    33.7729 %
+sad        28.7821 %
+surprised  2.6416 %
+-----CARA 10-----
+angry      44.7022 %
+disgusted  2.7243 %
+fearful    12.3992 %
+happy      1.4773 %
+neutral    19.3922 %
+sad        9.1397 %
+surprised  10.1652 %
+-----CARA 11-----
+angry      31.7049 %
+disgusted  0.1173 %
+fearful    19.1600 %
+happy      26.7072 %
+neutral    4.1522 %
+sad        17.2754 %
+surprised  0.8831 %
+-----CARA 12-----
+angry      5.3934 %
+disgusted  0.0014 %
+fearful    2.1253 %
+happy      4.2749 %
+neutral    61.9012 %
+sad        25.0501 %
+surprised  1.2537 %
+-----CARA 13-----
+angry      0.3504 %
+disgusted  0.0001 %
+fearful    3.0695 %
+happy      89.1869 %
+neutral    1.8921 %
+sad        0.4351 %
+surprised  5.0659 %
+-----CARA 14-----
+angry      18.1097 %
+disgusted  0.4035 %
+fearful    9.5407 %
+happy      0.3028 %
+neutral    44.5636 %
+sad        26.2278 %
+surprised  0.8519 %
+-----CARA 15-----
+angry      8.8080 %
+disgusted  0.0238 %
+fearful    3.5229 %
+happy      46.5802 %
+neutral    22.9706 %
+sad        17.7334 %
+surprised  0.3611 %
+-----CARA 16-----
+angry      7.9623 %
+disgusted  0.0381 %
+fearful    10.5786 %
+happy      2.0087 %
+neutral    31.4740 %
+sad        42.3403 %
+surprised  5.5980 %
+-----CARA 17-----
+angry      6.1815 %
+disgusted  0.0028 %
+fearful    58.0910 %
+happy      5.9273 %
+neutral    25.8465 %
+sad        3.5865 %
+surprised  0.3644 %
+-----CARA 18-----
+angry      7.1936 %
+disgusted  0.0081 %
+fearful    4.5538 %
+happy      1.0513 %
+neutral    42.4749 %
+sad        43.9948 %
+surprised  0.7234 %
+-----CARA 19-----
+angry      21.8435 %
+disgusted  0.0260 %
+fearful    6.5298 %
+happy      0.5198 %
+neutral    30.6025 %
+sad        22.2372 %
+surprised  18.2412 %
+-----CARA 20-----
+angry      2.1757 %
+disgusted  0.0080 %
+fearful    8.5477 %
+happy      40.6226 %
+neutral    23.6047 %
+sad        4.6186 %
+surprised  20.4228 %
